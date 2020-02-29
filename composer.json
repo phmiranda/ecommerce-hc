@@ -11,6 +11,7 @@
     ],
     "require": {
         "doctrine/orm": "^2.7",
+        "doctrine/migrations": "^2.0",
         "slim/slim": "^4.4",
         "slim/slim-skeleton": "^4.0",
         "twig/twig": "^3.0"
