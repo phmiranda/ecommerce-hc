@@ -1,12 +1,15 @@
-# comentários.
+# comentário.
 .idea/
 .vscode/
-nbproject/
 
-# comentários.
+# comentário.
+*.iml
+*.log
+
+# comentário.
 composer.lock
 package-lock.json
 
-# comentários.
-vendor/
+# comentário.
 node_modules/
+vendor/
