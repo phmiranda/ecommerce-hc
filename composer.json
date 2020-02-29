@@ -1,7 +1,22 @@
 {
+    "name": "phmiranda/ecommerce-hc",
+    "description": "e-commerce desenvolvido no curso de desenvolvimento web da hcode",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phmiranda",
+            "email": "pehhagah.1607@gmail.com"
+        }
+    ],
     "require": {
-        "twbs/bootstrap": "3.3.7",
-        "components/jquery": "^3.3",
-        "almasaeed2010/adminlte": "~2.4"
+        "doctrine/orm": "^2.7",
+        "slim/slim": "^4.4",
+        "slim/slim-skeleton": "^4.0",
+        "twig/twig": "^3.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "^4.1",
+        "phpunit/phpunit": "^8.5"
     }
 }
